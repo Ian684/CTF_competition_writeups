@@ -2,6 +2,9 @@
 
 A personal collection of CTF competition writeups, solve scripts, and challenge notes. The repository is organized by competition/event.
 
+See [INDEX.md](INDEX.md) for a file-by-file competition index and suggested
+review workflow.
+
 ## Repository Structure
 
 ```text
